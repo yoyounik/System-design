@@ -1,4 +1,4 @@
-# System-design 
+# System-design 🚀
 **28th december - 2024**
 1. System design basics- which included everything about scalability, performance, reliability and increasing efficiency.
 2. Components of system design - which included load balancer, key-value stores, blob storage, databases, rate limiters, **distributed messaging queue** and many more.
