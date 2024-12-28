@@ -5,3 +5,6 @@
 3. Then i learnt about scalability part. horizontal & vertical scaling.
 4. Also got to know about **caching** and how useful it is in tranfering data smoothly and fast as compared to transfer directly from databases.
 5. Then i learnt about Monolithic and Microservices architecture and their differences.
+
+**29th decemeber -2024**
+1. HLD
